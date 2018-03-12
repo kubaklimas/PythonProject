@@ -12,5 +12,5 @@ Projekt z języka skryptowego
  <h2> Dalsze Plany </h2>
  <ul>
   <li> Dodanie fizyki mobów i gracza</li>
-  <li> Oprawa graficzna</li>
+  <li> Oprawa graficzna(zmiana obrazu podczas skrętu gracza, wyglądu mobów i gracza, ustawienie tła)</li>
  <ul> 
