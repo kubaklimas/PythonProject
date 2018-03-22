@@ -2,7 +2,7 @@
 Projekt z języka skryptowego
 <h2> Mój pomysł </h2>
 <p> Wciągająca gra zręcznościowa o tematyce 'kosmicznej' ze wzrastającym poziomem trudności, polegająca na unikaniu nadlatujących przeszkód lecących z coraz to większą szybkością i rózną wielkością. Jak w każdej grze pojawią się punkty, oraz prawdopodobnie strzal na LPM</p>
-<p> Zrobiona zostanie z pomocą bibloteki PyCharm oraz Random</p>
+<p> Zrobiona zostanie z pomocą bibloteki PyGame oraz biblioteki standardowej.</p>
 <p> Grafika jaka się pojawi najprawdopodobniej będzie zasięgnięta z internetu</p>
 
 <p> Pierwsze zadania </p>
