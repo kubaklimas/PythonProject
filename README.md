@@ -16,4 +16,8 @@ Projekt z języka skryptowego
  <ul>
   <li> Dodanie fizyki mobów i gracza</li>
   <li> Oprawa graficzna(zmiana obrazu podczas skrętu gracza, wyglądu mobów i gracza, ustawienie tła)</li>
- <ul> 
+ </ul> 
+   
+  <h1> 17.04</h1>
+  <p> Gra jest w 70% skończona jednak nadal nie udało mi się zrobić ekranu startowego i obrazu po śmierci. Najprawdopodobniej zostanie zmieniona fizyka gracza oraz mobów bo póki co odbijają się one od ścian. Zmieniony zostanie równiez wygląd gracza, oraz dodane zostaną punkty </p>
+  
