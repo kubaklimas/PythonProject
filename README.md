@@ -21,3 +21,5 @@ Projekt z języka skryptowego
   <h1> 17.04</h1>
   <p> Gra jest w 70% skończona jednak nadal nie udało mi się zrobić ekranu startowego i obrazu po śmierci. Najprawdopodobniej zostanie zmieniona fizyka gracza oraz mobów bo póki co odbijają się one od ścian. Zmieniony zostanie równiez wygląd gracza, oraz dodane zostaną punkty </p>
   
+<h1> 28.05</h1>
+<p> Do gry został wprowadzony strzał oraz kolizja z przeciwnikiem. Po określonym czasie zwiększa się ilość przeciwników na mapie co powoduje dodatkowe utrudnienie w grze. Do ostatnich poprawek należeć będa wyświetlane punkty po skończeniu się gry, oraz ekran startowy. </p> 
